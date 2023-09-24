@@ -41,6 +41,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/syntaxrework/syntaxrework/output/snake.svg" alt="Snake animation" />
 
 ###
